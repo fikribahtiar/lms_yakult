@@ -18,7 +18,7 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8_general_ci',
 );
 
-$CFG->wwwroot   = 'http://3356-36-77-121-252.ngrok.io';
+$CFG->wwwroot   = 'http://yakult.diconic.localhost';
 $CFG->dataroot  = 'C:\\xampp\htdocs\yakult.diconic.co.id\yakult-moodledata';
 $CFG->admin     = 'admin';
 $CFG->theme		= 'alpha';
